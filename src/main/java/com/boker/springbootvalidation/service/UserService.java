@@ -4,7 +4,6 @@ import com.boker.springbootvalidation.model.User;
 import com.boker.springbootvalidation.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 import java.util.NoSuchElementException;
 
